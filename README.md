@@ -37,14 +37,22 @@ Defining "best":
 
 * I used historical data to predict future ROI, starting with ZipCode-38461 as it has shown significant growth since 2011, and I will extend this approach to identify the top 5 zipcodes with the highest ROI predictions..
 
-![Top13Zipcodes]()
+![image](https://github.com/sogodongo/Forecasting-Optimal-Real-Estate-Investments-Using-Time-Series-Modeling/assets/103502854/dac1ecef-7beb-4ac1-82a1-c19b287ef787)
+
 
 ### V. Modeling
 
-SARIMAX 
+![image](https://github.com/sogodongo/Forecasting-Optimal-Real-Estate-Investments-Using-Time-Series-Modeling/assets/103502854/876c3159-0d61-4651-98e8-30ce445f0d94)
 
-### VI. Recommendation
+
+![image](https://github.com/sogodongo/Forecasting-Optimal-Real-Estate-Investments-Using-Time-Series-Modeling/assets/103502854/b02b024c-b23b-4782-acee-4d63a75f9973)
+
+### VI. Forecasting
+
+![ZipCode -38461](38461Forecast.png)
+
+### VII. Recommendation
 
 Invest in:
 
-![Recommendation](.)
+![Recommendation](TopZIPCodes.png)
