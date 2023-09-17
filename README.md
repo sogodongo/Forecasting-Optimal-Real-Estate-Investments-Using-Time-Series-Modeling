@@ -1,7 +1,7 @@
 
 # Forecasting Optimal Real Estate Investments Using Time Series Modeling
 
-## Top 5 Best Connecticut Zipcodes to Invest In 
+## Top 5 Best US Zipcodes to Invest In 
 
 
 
